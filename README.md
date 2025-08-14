@@ -1,6 +1,6 @@
 # PromptTSS
 
-Welcome to the official codebase of PromptTSS, accepted to CIKM 2025.
+Welcome to the official codebase of PromptTSS: A Prompting-Based Approach for Interactive Multi-Granularity Time Series Segmentation, accepted to CIKM 2025.
 
 # Usage
 
